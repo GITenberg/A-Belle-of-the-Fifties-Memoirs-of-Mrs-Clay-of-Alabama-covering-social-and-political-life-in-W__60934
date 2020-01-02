@@ -1,0 +1,41 @@
+_repo: A-Belle-of-the-Fifties-Memoirs-of-Mrs-Clay-of-Alabama-covering-social-and-political-life-in-W__60934
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Clay-Clopton, Virginia
+    aliases:
+    - Clay, Mrs. Clement C.
+    - Tunstall, Virginia
+    birthdate: 1825
+    deathdate: 1915
+    gutenberg_agent_id: '51195'
+    url: http://www.gutenberg.org/2009/agents/51195
+    wikipedia: https://en.wikipedia.org/wiki/Virginia_Clay-Clopton
+  editor:
+    agent_name: Sterling, Ada
+    deathdate: 1939
+    gutenberg_agent_id: '51196'
+    url: http://www.gutenberg.org/2009/agents/51196
+description: ''
+gutenberg_issued: '2019-12-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60934'
+  lccn: '13024517'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Washington (D.C.) -- Social life and customs -- 19th century'
+- !lcsh 'Confederate States of America -- Social life and customs'
+- !lcsh 'Southern States -- Social life and customs -- 1775-1865'
+- !lcc 'F206'
+- !lcsh 'Clay-Clopton, Virginia, 1825-1915'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Personal narratives,
+  Confederate'
+- GITenberg
+title: "A Belle of the Fifties\r\nMemoirs of Mrs. Clay of Alabama, covering social\
+  \ and political life in Washington and the South, 1853-1866. Put into narrative\
+  \ form by Ada Sterling"
+url: http://www.gutenberg.org/ebooks/60934
